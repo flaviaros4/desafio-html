@@ -17,7 +17,7 @@
         <h2 id="Historia"> A História do HTML </h2> 
         <small> <a href="#Inicio">(Voltar) </a></small>
         <p> O HTML foi criado por Tim Berners-Lee, que também é conhecido pela criação da World Wide Web (WWW), em 1990. A linguagem foi criada inicialmente para fins acadêmicos, uma forma para que os cientistas conseguissem compartilhar e divulgar suas pesquisas com maior facilidade. </p>   
-        <p> Desde sua criaçao o HTML passou por diversas versões e atualizações até se tornar o que é hoje, sendo a versão atual a HTML5 lançada em 2014. Atualmente é a linguagem padrão para criação de conteúdo web. </p>
+        <p> Desde sua criaçao o HTML passou por diversas versões e atualizações até se tornar o que é hoje, sendo a versão atual a HTML5, lançada em 2014. Atualmente é a linguagem padrão para criação de conteúdo web. </p>
         <p> <img src="https://files.tecnoblog.net/wp-content/uploads/2017/03/tim-berners-lee.jpg" alt="Tim Berners Lee" height="200" title="Tim Berners-Lee"></p>
 
         <h2 id="Estrutura"> Estrutura básica de um documento HTML </h2>
@@ -36,8 +36,8 @@
 
     <h2 id="Tags"> O que são tags? </h2>
     <small> <a href="#Inicio">(Voltar) </a></small>
-    <p> Tags são elementos usados para marcar e definir partes específicas de um documento. São definidas pelos seguindos caracteres: sinal de menor (<) e sinal de menor (>). Cada elemento contido dentro desses dois caracteres possuem uma função específica que irá auxiliar em toda a estrutura do documento. </p>
-    <p> Algumas tags não necessitam de fechamento e outros utilizam do símbolo (/) para tal função.</p>
+    <p> Tags são elementos usados para marcar e definir partes específicas de um documento. São definidas pelos seguintes caracteres: sinal de menor (<) e sinal de maior (>). Cada elemento contido dentro desses dois caracteres possuem uma função específica que auxilia na estrutura do documento. </p>
+    <p> Algumas tags não necessitam de fechamento, enquanto outras utilizam o símbolo (/) para indicar o fechamento.</p>
 
     <h2 id="Ref"> Links de referências </h2>
     <small> <a href="#Inicio">(Voltar) </a></small>
