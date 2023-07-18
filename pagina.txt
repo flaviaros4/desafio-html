@@ -16,7 +16,7 @@
             <p> O HTML surgiu também como uma forma de deixar as páginas web mais interativas, diferentes de como eram antigamente. </p> 
         <h2 id="Historia"> A História do HTML </h2> 
         <small> <a href="#Inicio">(Voltar) </a></small>
-        <p> O HTML foi criado por Tim Berners-Lee, que também é conhecido pela criação da World Wide Web (WWWW), em 1990. A linguagem foi criada inicialmente para fins acadêmicos, uma forma para que os cientistas conseguissem compartilhar e divulgar suas pesquisas com maior facilidade. </p>   
+        <p> O HTML foi criado por Tim Berners-Lee, que também é conhecido pela criação da World Wide Web (WWW), em 1990. A linguagem foi criada inicialmente para fins acadêmicos, uma forma para que os cientistas conseguissem compartilhar e divulgar suas pesquisas com maior facilidade. </p>   
         <p> Desde sua criaçao o HTML passou por diversas versões e atualizações até se tornar o que é hoje, sendo a versão atual a HTML5 lançada em 2014. Atualmente é a linguagem padrão para criação de conteúdo web. </p>
         <p> <img src="https://files.tecnoblog.net/wp-content/uploads/2017/03/tim-berners-lee.jpg" alt="Tim Berners Lee" height="200" title="Tim Berners-Lee"></p>
 
