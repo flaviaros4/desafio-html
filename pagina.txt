@@ -1,0 +1,49 @@
+<html>
+    <head> <title> Introdução ao HTML </title> </head>
+    <body>
+        <h1 id="Inicio"><strong>  Introdução ao HTML </strong></h1> <hr>
+        <h2> Índice </h2>
+        <ul>
+            <li><a href="#HTML"> O que é HTML? </a></li>
+            <li><a href="#Historia"> A História do HTML </a></li>
+            <li><a href="#Estrutura"> Estrutura básica de um documento HTML </a></li>
+            <li><a href="#Tags"> O que são tags? </a></li>
+            <li><a href="#Ref">Links de referências </a></li>
+        </ul> <hr>
+        <h2 id="HTML"> <strong>  O que é HTML? </strong> </h2>
+        <small> <a href="#Inicio">(Voltar) </a></small>
+        <p> HTML - abreviação para <strong><i> HyperText Markup Language </i></strong> - é uma linguagem de marcação usada principalmente na criação de páginas da web por meio da utilização de elementos como tags e atributos. Essa linguagem possibilita que as informações de uma pagina web estejam organizadas e visualmente estruturadas, além de facilitar a navegação de uma página a outra através de Hiperlinks.
+            <p> O HTML surgiu também como uma forma de deixar as páginas web mais interativas, diferentes de como eram antigamente. </p> 
+        <h2 id="Historia"> A História do HTML </h2> 
+        <small> <a href="#Inicio">(Voltar) </a></small>
+        <p> O HTML foi criado por Tim Berners-Lee, que também é conhecido pela criação da World Wide Web (WWWW), em 1990. A linguagem foi criada inicialmente para fins acadêmicos, uma forma para que os cientistas conseguissem compartilhar e divulgar suas pesquisas com maior facilidade. </p>   
+        <p> Desde sua criaçao o HTML passou por diversas versões e atualizações até se tornar o que é hoje, sendo a versão atual a HTML5 lançada em 2014. Atualmente é a linguagem padrão para criação de conteúdo web. </p>
+        <p> <img src="https://files.tecnoblog.net/wp-content/uploads/2017/03/tim-berners-lee.jpg" alt="Tim Berners Lee" height="200" title="Tim Berners-Lee"></p>
+
+        <h2 id="Estrutura"> Estrutura básica de um documento HTML </h2>
+        <small> <a href="#Inicio">(Voltar) </a></small>
+        <p> Um documento HTML possui uma estrutura padrão, é a base para que sua página funcione corretamente. Essa base pode ser dividida em 3 partes principais: </p>
+        <p> <ol>
+            <li> <strong> Doctype: </strong>  permite que o navegador ou qualquer outro programa identifique o tipo de documento. </li>
+            <li> <strong> Head: </strong>Dados do documento que não são visíveis ao leitor. </li>
+            <li><strong> Body: </strong> O própio documento, tudo que é visível para o leitor </li>
+
+
+        </ol>
+    </p>
+    <p> A imagem abaixo ilustra melhor como é a estrutura de um elemnto: </p>
+    <p><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210401153104/htmlstrc.PNG" alt="Estrutura de texto html" height="300"></p>
+
+    <h2 id="Tags"> O que são tags? </h2>
+    <small> <a href="#Inicio">(Voltar) </a></small>
+    <p> Tags são elementos usados para marcar e definir partes específicas de um documento. São definidas pelos seguindos caracteres: sinal de menor (<) e sinal de menor (>). Cada elemento contido dentro desses dois caracteres possuem uma função específica que irá auxiliar em toda a estrutura do documento. </p>
+    <p> Algumas tags não necessitam de fechamento e outros utilizam do símbolo (/) para tal função.</p>
+
+    <h2 id="Ref"> Links de referências </h2>
+    <small> <a href="#Inicio">(Voltar) </a></small>
+    <ul>
+       <li><a href="http://dio.me" target="_blank"> DIO </a></li>
+       <li><a href="http://w3c.org" target="_blank">W3C</a></li>
+    </ul> 
+</body>
+</html>
